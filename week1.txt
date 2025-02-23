@@ -1,3 +1,7 @@
 Đây là file week1.test
+<<<<<<< HEAD
 thuộc branch. week1 mà thôi
 
+=======
+thuộc branch. week1 và main
+>>>>>>> main
